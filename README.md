@@ -57,7 +57,39 @@ This project presents a sustainable and intelligent solar window that generates 
 - `Arduino IDE` – for automation control
 - `Proteus` (optional) – for circuit design simulation
 
+
+## 👥 Team Members
+
+- **Hushan Ridmika** 
+- **Dinithi Ravisha**   
+- **Sunath Rodrigo**  
+- **Sivakumar Sajeevan**  
+- **Sasini Sachika**
+
 ---
 
-## 📂 Project Structure
+## 🚀 Future Enhancements
+
+- Implement a **dual-axis tracking system** for finer solar alignment  
+- Integrate **machine learning** for predictive scheduling based on environmental data  
+- Develop a **mobile/web app interface** for remote monitoring  
+- Expand energy storage capacity using **Li-ion battery packs**  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – free to use, modify, and distribute with attribution.
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks to the **Department of Electrical Engineering, University of Moratuwa**, for support and guidance during this final-year research project.
+
+---
+
+📬 **Feel free to fork, star ⭐, or raise issues for improvements!**  
+🔗 For collaboration inquiries, contact us through our GitHub profiles or university emails.
+
 
