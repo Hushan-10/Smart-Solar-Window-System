@@ -2,6 +2,8 @@
 
 This project presents a sustainable and intelligent solar window that generates electricity while also responding to environmental conditions like rain and smoke. It integrates solar tracking, automation, and transparent photovoltaic technology to enhance energy efficiency in buildings.
 
+Developed as part of the **Engineering Systems Design Module (EE3204)** during the **3rd semester** at the **University of Moratuwa**.
+
 ---
 
 ## 🔍 Key Features
@@ -83,9 +85,10 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 
 ---
 
+
 ## 🙌 Acknowledgements
 
-Thanks to the **Department of Electrical Engineering, University of Moratuwa**, for support and guidance during this final-year research project.
+Special thanks to the **Department of Electrical Engineering, University of Moratuwa**, for the guidance and resources provided during the Engineering Systems Design module.
 
 ---
 
